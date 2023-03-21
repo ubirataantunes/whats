@@ -1,5 +1,6 @@
 const qrcode = require('qrcode-terminal');
 
+
 const { Client, Buttons } = require('whatsapp-web.js');
 const client = new Client();
 
